@@ -6,10 +6,6 @@ import java.util.stream.IntStream;
 
 public class SameAritheticPattern
 {
-	static String expression1;
-	String expression2;
-	
-	
 	public static boolean getPattern(String expression1, String expression2)
 	{
 		String betweenBrackets = "";
